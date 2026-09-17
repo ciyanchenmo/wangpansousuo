@@ -1,0 +1,6 @@
+{
+  "name": "PanSearch 网盘资源搜索引擎",
+  "description": "聚合全网影视与学习网盘资源，支持夸克、阿里、百度等网盘搜索与自动化推广挂链变现系统",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
